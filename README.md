@@ -2,6 +2,7 @@
 - 👀 I am passionate about programming.
 - 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me https://www.linkedin.com/in/aymane-zaitoune-877542199/
+- My hobbies are Football-Programming and gaming.
 
 <!---
 Aigle06/Aigle06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
